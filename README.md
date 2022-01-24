@@ -21,11 +21,14 @@
 ## Preview of after setup completed.. 
 
  <img src=". modules/find-host.png" width="720" hight="1280">
- ![](.modules/f
- 
+
  ## [ USAGE ]: 
 Http Test Number {1}
+
 Host Test Number {2}
+
 XOnlineHost Test Number {3}
+
 Referer Test Number {4}
+
 Host ip  Number {5}
