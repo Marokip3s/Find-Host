@@ -21,7 +21,7 @@
 ## Preview of after setup completed.. 
 
  <img src=". modules/find-host.png" width="720" hight="1280">
- ![](.modules/find-host.png)
+ ![](.modules/f
  
  ## [ USAGE ]: 
 Http Test Number {1}
