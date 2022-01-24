@@ -17,6 +17,10 @@
  7. `chmod +x Find-host.py` 
  8. Type `python2 Find-host.py` 
 
+
+## Preview of after setup completed.. 
+
+ <img src=". modules/find-host.png" width="720" hight="1280">
  ![](.modules/find-host.png)
  
  ## [ USAGE ]: 
