@@ -17,7 +17,7 @@
  7. `chmod +x Find-host.py` 
  8. Type `python2 Find-host.py` 
 
- ![](.modules/find-host.png) 
+ ![](.modules/find-host.png)
  
  ## [ USAGE ]: 
 Http Test Number {1}
